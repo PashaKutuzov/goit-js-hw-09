@@ -28,7 +28,7 @@ const formData = {
   
     console.log("Form Data:", {
       email: emailInput.value.trim(),
-      message: textarea.value.trim
+      message: textarea.value.trim()
     });
   
    
